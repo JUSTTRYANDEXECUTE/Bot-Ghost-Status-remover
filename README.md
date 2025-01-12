@@ -1,30 +1,21 @@
-# Discord Bot Status Changer
+# Discord Bot 상태 변경
 
-This Discord bot status changer is a simple JavaScript application that allows you to change your bot's presence status on Discord. You can customize your bot's status to display a specific message or show that it is playing a particular game.
+Discord 봇 상태 변경기는 간단한 JS 애플리케이션으로, Discord에서 봇의 활동 상태를 변경할 수 있습니다.
+봇의 상태를 사용자 지정하여 특정 메시지를 표시하거나 특정 게임을 실행 중임을 커스텀하여 표시할 수 있습니다.
 
-## Usage
+## 사용법
 
-1. Clone or download this repository to your local machine or fork it.
+1. 컴퓨터에 복사하여 다운로드하거나 등록하세요.
 
-2. Install the required dependencies using npm or yarn:
+2. npm 또는 shell을 사용하여 종속성 설치
 
    ```shell
    npm install
    ```
-3. Add your token in secrets
+3. 비밀 토큰 추가
 
 
-/**
- █████  ███    ███ ███████ ███████ ███    ██     ██████   █████  ██████  ██    ██ 
-██   ██ ████  ████ ██      ██      ████   ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-███████ ██ ████ ██ █████   █████   ██ ██  ██     ██████  ███████ ██████  ██    ██ 
-██   ██ ██  ██  ██ ██      ██      ██  ██ ██     ██   ██ ██   ██ ██   ██ ██    ██ 
-██   ██ ██      ██ ███████ ███████ ██   ████     ██████  ██   ██ ██████   ██████  
-                                                                                  
-                                                                                            
-
-  DISCORD SERVER : (https://discord.gg/Dpa7ZMAyEn)                                                     
-  YOUTUBE : https://www.youtube.com/@gaming_squawk                                                   
+/**                                                 
  * **********************************************
  *   Code by AMEEN BABU                                            
  * **********************************************
